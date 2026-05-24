@@ -27,3 +27,7 @@ remove-gd-addon DamageReceiver
 ```bash
 push-all-addons
 ```
+
+## Dependencies
+
+- [HitflashAnimation](https://github.com/ChillCube/Godot_HitflashAnimation)
