@@ -31,3 +31,8 @@ push-all-addons
 ## Dependencies
 
 - [HitflashAnimation](https://github.com/ChillCube/Godot_HitflashAnimation)
+
+## Used By
+1 other ChillCube addon(s) depend on this:
+
+- [HealthAndDamageArea](https://github.com/ChillCube/HealthAndDamageArea)
