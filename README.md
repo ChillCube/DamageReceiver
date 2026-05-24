@@ -30,6 +30,7 @@ push-all-addons
 
 ## Dependencies
 
+- [DamageFormula](https://github.com/ChillCube/DamageFormula)
 - [HitflashAnimation](https://github.com/ChillCube/Godot_HitflashAnimation)
 
 ## Used By
